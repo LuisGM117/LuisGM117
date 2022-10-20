@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning python and React ⚛️
 - 👯 I’m looking to collaborate on web development 
 - 💬 Ask me about python, java, videogames and soccer
-- 📫 How to reach me: luis_7gm@outlook.com 
+- 📫 How to reach me: luis7_gm@outlook.com 
 - ⚡ Fun fact: I hate pointers
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGM117&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
