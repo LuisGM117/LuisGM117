@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently looking for a remote work! 🧑‍💻
-- 🌱 I’m currently learning python and React ⚛️
-- 👯 I’m looking to collaborate on web development 
+- 🌱 I’m currently learning Python
 - 💬 Ask me about python, java, videogames and soccer
 - 📫 How to reach me: luis7_gm@outlook.com 
 - ⚡ Fun fact: I hate pointers
